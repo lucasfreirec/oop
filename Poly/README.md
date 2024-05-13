@@ -6,7 +6,7 @@ This project consists of a C++ class named `Poly` capable of representing polyno
 
 A polynomial \( P(x) \) of degree \( n \) with \( n+1 \) real coefficients \( a_i \) is represented by the expression:
 
-\[ P(x) = a_nx^n + a_{n-1}x^{n-1} + \ldots + a_1x + a_0 \]
+$P(x) = a_nx^n + a_{n-1}x^{n-1} + \ldots + a_1x + a_0$
 
 The polynomial of degree \( n \) is internally stored in the `Poly` class by two data:
 - An integer `degree`.
