@@ -12,4 +12,4 @@ One of the main objectives of the project was to practice the use of basic data 
 The A* algorithm found the shortest path in a graph where the transition between connected nodes had an associated cost. In this case, each cell of the maze was a node in the graph. The cells were connected to their 8 neighboring cells, and the cost of moving from one cell to another was the distance between the centers of the cells.
 
 ---
-This README was automatically generated from the provided project specifications.
+This README was automatically generated from the provided project specifications. TESTE
