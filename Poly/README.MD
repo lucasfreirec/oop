@@ -6,7 +6,7 @@ This project consists of a C++ class named `Poly` capable of representing polyno
 
 A polynomial \( P(x) \) of degree \( n \) with \( n+1 \) real coefficients \( a_i \) is represented by the expression:
 
-\[ P(x) = a_nx^n + a_{n-1}x^{n-1} + \cdots + a_1x + a_0 \]
+\[ P(x) = a_nx^n + a_{n-1}x^{n-1} + \ldots + a_1x + a_0 \]
 
 The polynomial of degree \( n \) is internally stored in the `Poly` class by two data:
 - An integer `degree`.
@@ -50,3 +50,6 @@ The main program is a mini-calculator for polynomials that offers the following 
 - Terminate.
 
 At the beginning, the program reads the files `poly_P1.txt`, `poly_P2.txt`, and `poly_result.txt`, if they exist, to set initial values for the polynomials. With each operation, the polynomials are saved in these files so that the program continues from where it left off upon restarting.
+
+---
+This README was automatically generated from the provided project specifications.
