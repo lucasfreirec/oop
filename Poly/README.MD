@@ -1,0 +1,1 @@
+This project consists of a polynomial calculator capable of performing basic operations with two polynomials. Additionally, it can read from and write to files the results.
