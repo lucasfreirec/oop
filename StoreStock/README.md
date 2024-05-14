@@ -22,7 +22,7 @@ This project implements a simplified version of a store inventory manager in C++
 
 Items are stored in a file, with one item per line. The format allows for easy reading/writing of both base and derived class information.
 
-E.g.:
+Example:
 
 LISTALIVRO 3 <br>
 L: "Summer Adventures";$21.99;"Alice" <br>
