@@ -24,18 +24,18 @@ Items are stored in a file, with one item per line. The format allows for easy r
 
 E.g.:
 
-LISTALIVRO 3
-L: "Summer Adventures";$21.99;"Alice"
-L: "The Secret of Stars";$14.50;"Carlos"
-L: "Lost Pages";$18.75;"Isabela"
-LISTACD 2
-C: "Heart Melodies";$10.99;9
-C: "Night Rhythm";$7.25;12
-LISTADVD 4
-D: "The Great Journey";$19.99;86
-D: "Mysteries of the Universe";$12.00;54
-D: "Radical Challenge";$8.50;112
-D: "Ocean Secrets";$6.75;78
+LISTALIVRO 3 <br>
+L: "Summer Adventures";$21.99;"Alice" <br>
+L: "The Secret of Stars";$14.50;"Carlos" <br>
+L: "Lost Pages";$18.75;"Isabela" <br>
+LISTACD 2 <br>
+C: "Heart Melodies";$10.99;9 <br>
+C: "Night Rhythm";$7.25;12 <br>
+LISTADVD 4 <br>
+D: "The Great Journey";$19.99;86 <br>
+D: "Mysteries of the Universe";$12.00;54 <br>
+D: "Radical Challenge";$8.50;112 <br>
+D: "Ocean Secrets";$6.75;78 <br>
 
 
 ## Graphical User Interface (GUI)
