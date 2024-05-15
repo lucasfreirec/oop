@@ -1,6 +1,5 @@
-# WhatsProg - Client-Server Application
-
-WhatsProg is a client-server application developed in C++ with the aim of exchanging text messages between users on different machines. The server connects to all user clients and forwards messages to the correct recipients. The application utilizes threads and TCP sockets for communication between client and server, using port 23456.
+# WhatsProg
+WhatsProg is a client-server application developed in C++ with the aim of exchanging text messages between users on different machines. The server connects to all user clients and forwards messages to the correct recipients. The application, inspired by WhatsApp, utilizes threads and TCP sockets for communication between client and server, using port 23456.
 
 Before using WhatsProg, every user must register with the server using a unique login and password. The login must be between 6 and 12 characters long, and the password must also be between 6 and 12 characters. Both the login and password are case-sensitive.
 
@@ -26,8 +25,6 @@ When the server program terminates or in case of inactivity, it saves the inform
 ## User Interface:
 
 Depending on the color customization of the operating system, some parts of the interface may be hidden, requiring adjustments to an appropriate color.
- 
-Overall, this project involves the implementation of a server, a client, and a QT graphical interface for the client. The inspiration for this project is the WhatsApp application.
 
 ---
 This README was automatically generated from the provided project specifications.
