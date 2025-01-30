@@ -1,14 +1,6 @@
-# Projects from the course DCA1202 - Advanced Programming
+# Object-oriented programming
+This is the repository for the Advanced Programming course, offered by the Department of Computer Engineering and Automation (DCA) of the Technology Center (CT) at the Federal University of Rio Grande do Norte (UFRN) and taught by professor Dr. Adelardo Adelino Dantas de Medeiros. This space will be used to store all work and projects developed throughout the semester (2023.2) for the course.
 
-This repository contains the projects developed during the course DCA1202 - Advanced Programming, taught by Professor Dr. Adelardo Adelino Dantas de Medeiros at the Federal University of Rio Grande do Norte (UFRN) in the semester 2023.2. All projects were implemented based on specifications provided by the professor.
+Name: Lucas Freire Costa
 
-It's important to note that, in many cases, the professor provided various implementations as starting points for the projects. Therefore, not all the code provided in this repository was exclusively authored by me.
-
-The projects are organized in separate folders within this repository. Each folder represents a specific project developed throughout the course.
-
-Order of projects:
-1. Poly
-2. Maze
-3. StoreStock
-4. digital-circuit-simulator
-5. WhatsProg
+Undergraduate Course: Computer Engineering
